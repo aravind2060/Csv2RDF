@@ -1,0 +1,1819 @@
+<https://dbpedia.org/page/Aces_Go_Places_5:_The_Terracotta_Hit>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Aces_Go_Places_5:_The_Terracotta_Hit" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Nina_Li_(actress)> .
+
+<https://dbpedia.org/page/The_Longest_Night_in_Shanghai>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Longest_Night_in_Shanghai" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Dylan_Kuo> .
+
+<https://dbpedia.org/page/The_Golden_Path_(TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Golden_Path_(TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Joanne_Peh> .
+
+<https://dbpedia.org/page/C.L.I.F._2>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "C.L.I.F._2" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Joanne_Peh> .
+
+<https://dbpedia.org/page/Be_Happy_(TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Be_Happy_(TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Paige_Chua> .
+
+<https://dbpedia.org/page/Golden_Gate_Girl>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Golden_Gate_Girl" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Bruce_Lee> .
+
+<https://dbpedia.org/page/The_Score_(TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Score_(TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Paige_Chua> .
+
+<https://dbpedia.org/page/Sisters_of_Pearl>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Sisters_of_Pearl" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Kiki_Sheung> .
+
+<https://dbpedia.org/page/It's_a_Wonderful_Life_(TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "It's_a_Wonderful_Life_(TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Paige_Chua> .
+
+<https://dbpedia.org/page/Fantasy_Mission_Force>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Fantasy_Mission_Force" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Brigitte_Lin> .
+
+<https://dbpedia.org/page/Winners_and_Sinners>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Winners_and_Sinners" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/The_Sting_(1992_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Sting_(1992_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rosamund_Kwan> .
+
+<https://dbpedia.org/page/Older_Office_Lady:_Using_Her_Seductive_Tongue>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Older_Office_Lady:_Using_Her_Seductive_Tongue" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Lemon_Hanazawa> .
+
+<https://dbpedia.org/page/"The_Fun>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "\"The_Fun" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/_the_Luck_&_the_Tycoon"> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Nina_Li_(actress)> .
+
+<https://dbpedia.org/page/Immoral_Affairs>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Immoral_Affairs" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Isako_Washio> .
+
+<https://dbpedia.org/page/Just_Love_II>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Just_Love_II" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Johnson_Lee> .
+
+<https://dbpedia.org/page/Don_Juan_DeMercado>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Don_Juan_DeMercado" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Christine_Kuo> .
+
+<https://dbpedia.org/page/Twilight_Investigation>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Twilight_Investigation" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Johnson_Lee> .
+
+<https://dbpedia.org/page/Molester's_Train:_Suggestive_Indecent_Hips>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Molester's_Train:_Suggestive_Indecent_Hips" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Lemon_Hanazawa> .
+
+<https://dbpedia.org/page/My_Buddy_(TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "My_Buddy_(TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Ng_Hui> .
+
+<https://dbpedia.org/page/Raising_the_Bar_(2015_TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Raising_the_Bar_(2015_TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Louis_Cheung> .
+
+<https://dbpedia.org/page/Sweetness_in_the_Salt>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Sweetness_in_the_Salt" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Halina_Tam> .
+
+<https://dbpedia.org/page/Lee_Rock_II>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Lee_Rock_II" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Sharla_Cheung> .
+
+<https://dbpedia.org/page/Shura_(film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Shura_(film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Katsuo_Nakamura> .
+
+<https://dbpedia.org/page/Crime_Busters_x_2>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Crime_Busters_x_2" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Paige_Chua> .
+
+<https://dbpedia.org/page/The_Legend_of_Brown_Sugar_Chivalries>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Legend_of_Brown_Sugar_Chivalries" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Republic_of_China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Xiao_Xun> , <https://dbpedia.org/page/Wang_Zi> , <https://dbpedia.org/page/MeiMei_Kuo> .
+
+<https://dbpedia.org/page/Casino_Raiders>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Casino_Raiders" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rosamund_Kwan> .
+
+<https://dbpedia.org/page/The_King_of_Snooker>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_King_of_Snooker" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Halina_Tam> .
+
+<https://dbpedia.org/page/The_Last_Breakthrough>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Last_Breakthrough" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Kiki_Sheung> .
+
+<https://dbpedia.org/page/The_Magic_Crane>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Magic_Crane" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rosamund_Kwan> .
+
+<https://dbpedia.org/page/BermÌ¼dez_(telenovela)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "BermÌ¼dez_(telenovela)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Colombia> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Valentina_RendÌ_n> .
+
+<https://dbpedia.org/page/Wanda_Whips_Wall_Street>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Wanda_Whips_Wall_Street" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/United_States> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Jamie_Gillis> .
+
+<https://dbpedia.org/page/Summer_Love_Love>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Summer_Love_Love" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Terence_Siufay> .
+
+<https://dbpedia.org/page/Over_Run_Over>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Over_Run_Over" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Christine_Kuo> .
+
+<https://dbpedia.org/page/Faithfully_Yours>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Faithfully_Yours" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Sharla_Cheung> .
+
+<https://dbpedia.org/page/Lucky_Stars>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Lucky_Stars" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Cinema_of_Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/"The_Good>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "\"The_Good" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/_the_Bad_and_the_Ugly_(1979_TV_series)"> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Lee_Heung-kam> .
+
+<https://dbpedia.org/page/The_Romancing_Star_III>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Romancing_Star_III" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Sharla_Cheung> .
+
+<https://dbpedia.org/page/Turning_Point_(2009_action_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Turning_Point_(2009_action_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/Frozen_(1997_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Frozen_(1997_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Cinema_of_China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Jia_Hongsheng> .
+
+<https://dbpedia.org/page/Gilded_Chopsticks>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Gilded_Chopsticks" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Louis_Cheung> .
+
+<https://dbpedia.org/page/My_Fair_Princess_III>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "My_Fair_Princess_III" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Wang_Yan_(actress)> .
+
+<https://dbpedia.org/page/Shades_of_Truth>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Shades_of_Truth" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Gigi_Lai> .
+
+<https://dbpedia.org/page/A_Kid_from_Tibet>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "A_Kid_from_Tibet" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> , <https://dbpedia.org/page/Nina_Li_(actress)> .
+
+<https://dbpedia.org/page/Undeclared_War>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Undeclared_War" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rosamund_Kwan> .
+
+<https://dbpedia.org/page/The_Lost_Tomb>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Lost_Tomb" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yang_Yang_(actor)> .
+
+<https://dbpedia.org/page/The_Dance_of_Passion>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Dance_of_Passion" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Gigi_Lai> .
+
+<https://dbpedia.org/page/Socialite_Belle_Panchanne:_The_Wife_Is_a_Superheroine!>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Socialite_Belle_Panchanne:_The_Wife_Is_a_Superheroine!" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Haruna_Yabuki> .
+
+<https://dbpedia.org/page/Kung_Fu_Soccer>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Kung_Fu_Soccer" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Dicky_Cheung> .
+
+<https://dbpedia.org/page/_born_1980)">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "_born_1980)\"" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Falling_Flowers> , <https://dbpedia.org/page/Will_You_Marry_Me_and_My_Family> , <https://dbpedia.org/page/On_His_Majesty's_Secret_Service> , <https://dbpedia.org/page/Once_Upon_a_Time_in_Tibet> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/"Song_Jia_(actress> .
+
+<https://dbpedia.org/page/Young_and_Dangerous_2>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Young_and_Dangerous_2" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Gigi_Lai> .
+
+<https://dbpedia.org/page/The_Lower_Depths_(1957_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Lower_Depths_(1957_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Minoru_Chiaki> .
+
+<https://dbpedia.org/page/The_Kid_(1950_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Kid_(1950_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Bruce_Lee> .
+
+<https://dbpedia.org/page/Three_Naked_Sisters:_Lewdness>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Three_Naked_Sisters:_Lewdness" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Sakurako_Kaoru> .
+
+<https://dbpedia.org/page/Space_Mutiny>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Space_Mutiny" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/South_Africa> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/James_Ryan_(actor)> .
+
+<https://dbpedia.org/page/Beast_Cops>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Beast_Cops" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Michael_Wong_(actor)> .
+
+<https://dbpedia.org/page/Treasure_Hunt_(1994_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Treasure_Hunt_(1994_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Michael_Wong_(actor)> .
+
+<https://dbpedia.org/page/Disco_(film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Disco_(film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/France> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Isabelle_Nanty> .
+
+<https://dbpedia.org/page/The_Charm_Beneath>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Charm_Beneath" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Gigi_Lai> .
+
+<https://dbpedia.org/page/Good_Luck_(TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Good_Luck_(TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Paige_Chua> .
+
+<https://dbpedia.org/page/Love_Thy_Neighbour_(TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Love_Thy_Neighbour_(TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Ng_Hui> .
+
+<https://dbpedia.org/page/Rosa_(1986_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Rosa_(1986_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/Ghetto_Justice_II>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Ghetto_Justice_II" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Christine_Kuo> .
+
+<https://dbpedia.org/page/Come_Home_Love_(series_2)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Come_Home_Love_(series_2)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Louis_Cheung> .
+
+<https://dbpedia.org/page/A_Pillow_Case_of_Mystery_II>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "A_Pillow_Case_of_Mystery_II" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Johnson_Lee> .
+
+<https://dbpedia.org/page/Best_Selling_Secrets>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Best_Selling_Secrets" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yoyo_Chen> .
+
+<https://dbpedia.org/page/Rosy_Business>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Rosy_Business" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Kiki_Sheung> .
+
+<https://dbpedia.org/page/Victor_and_Hugo>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Victor_and_Hugo" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/United_Kingdom> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Brian_Trueman> .
+
+<https://dbpedia.org/page/The_Journey_(trilogy_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Journey_(trilogy_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Joanne_Peh> .
+
+<https://dbpedia.org/page/Dragon_in_Jail>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Dragon_in_Jail" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Gigi_Lai> .
+
+<https://dbpedia.org/page/Two_of_a_Kind_(HK_TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Two_of_a_Kind_(HK_TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Kiki_Sheung> .
+
+<https://dbpedia.org/page/The_Monkey_King:_Quest_for_the_Sutra>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Monkey_King:_Quest_for_the_Sutra" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Dicky_Cheung> .
+
+<https://dbpedia.org/page/Single_Princesses_and_Blind_Dates>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Single_Princesses_and_Blind_Dates" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Dylan_Kuo> .
+
+<https://dbpedia.org/page/Hanzo_the_Razor>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Hanzo_the_Razor" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yukiji_Asaoka> .
+
+<https://dbpedia.org/page/Frog_Song>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Frog_Song" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rinako_Hirasawa> .
+
+<https://dbpedia.org/page/Dragons_Forever>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Dragons_Forever" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/Neo_Ultra_Q>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Neo_Ultra_Q" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rin_Takanashi> .
+
+<https://dbpedia.org/page/Shogun_and_Little_Kitchen>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Shogun_and_Little_Kitchen" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/Life_Art>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Life_Art" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Gigi_Lai> .
+
+<https://dbpedia.org/page/Chained_Heat>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Chained_Heat" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/West_Germany> , <https://dbpedia.org/page/United_States> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Louisa_Moritz> .
+
+<https://dbpedia.org/page/On_the_Wrong_Track>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "On_the_Wrong_Track" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Prudence_Liew> .
+
+<https://dbpedia.org/page/Embrace_Your_Shadow>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Embrace_Your_Shadow" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Dylan_Kuo> .
+
+<https://dbpedia.org/page/A_Daughter_of_Eve>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "A_Daughter_of_Eve" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/United_Kingdom> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Cameron_Carr_(actor)> .
+
+<https://dbpedia.org/page/Twin_Dragons>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Twin_Dragons" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Nina_Li_(actress)> .
+
+<https://dbpedia.org/page/The_Journey:_A_Voyage>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Journey:_A_Voyage" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Joanne_Peh> .
+
+<https://dbpedia.org/page/Head_of_a_Tyrant>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Head_of_a_Tyrant" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Italian_language> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Isabelle_Corey> .
+
+<https://dbpedia.org/page/Fascinating_Young_Hostess:_Sexy_Thighs>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Fascinating_Young_Hostess:_Sexy_Thighs" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Akiho_Yoshizawa> .
+
+<https://dbpedia.org/page/The_Return_of_Carol_Deane>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Return_of_Carol_Deane" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/United_Kingdom> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Arthur_Margetson> .
+
+<https://dbpedia.org/page/Bel_Ami_(1955_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Bel_Ami_(1955_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Austria> , <https://dbpedia.org/page/France> , <https://dbpedia.org/page/East_Germany> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/RenÌ©e_Faure> .
+
+<https://dbpedia.org/page/New_Tokyo_Decadence_‰ÛÒ_The_Slave>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "New_Tokyo_Decadence_‰ÛÒ_The_Slave" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rinako_Hirasawa> .
+
+<https://dbpedia.org/page/The_Banquet_(1991_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Banquet_(1991_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Cinema_of_Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rosamund_Kwan> .
+
+<https://dbpedia.org/page/Temptation:_Eating_Me>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Temptation:_Eating_Me" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Akiho_Yoshizawa> .
+
+<https://dbpedia.org/page/Underworld_Beauty>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Underworld_Beauty" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Shinsuke_Ashida> .
+
+<https://dbpedia.org/page/Home_in_Toa_Payoh>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Home_in_Toa_Payoh" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Fiona_Xie> .
+
+<https://dbpedia.org/page/"Shanghai>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "\"Shanghai" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/_Shanghai"> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/Mysterious_Incredible_Terminator>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Mysterious_Incredible_Terminator" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Republic_of_China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Gui_Gui> , <https://dbpedia.org/page/Alien_Huang> .
+
+<https://dbpedia.org/page/The_Dream_of_Red_Mansions_(2010_TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Dream_of_Red_Mansions_(2010_TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/People's_Republic_of_China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yang_Yang_(actor)> .
+
+<https://dbpedia.org/page/Space_Battleship_Yamato_(2010_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Space_Battleship_Yamato_(2010_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Tsutomu_Yamazaki> .
+
+<https://dbpedia.org/page/The_Little_Nyonya>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Little_Nyonya" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Joanne_Peh> .
+
+<https://dbpedia.org/page/Cockleshell_Bay>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Cockleshell_Bay" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/United_Kingdom> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Brian_Trueman> .
+
+<https://dbpedia.org/page/Quitting>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Quitting" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/People's_Republic_of_China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Jia_Hongsheng> .
+
+<https://dbpedia.org/page/A_House_Is_Not_a_Home_(TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "A_House_Is_Not_a_Home_(TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Lee_Heung-kam> .
+
+<https://dbpedia.org/page/Sweet_Sweet_Bodyguard>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Sweet_Sweet_Bodyguard" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Republic_of_China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Alien_Huang> .
+
+<https://dbpedia.org/page/The_Outsiders_(Taiwanese_TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Outsiders_(Taiwanese_TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Republic_of_China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Dylan_Kuo> .
+
+<https://dbpedia.org/page/Murder_in_Pacot>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Murder_in_Pacot" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Haiti> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Thibault_VinÌ¤on> .
+
+<https://dbpedia.org/page/The_Family_Link>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Family_Link" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Kiki_Sheung> .
+
+<https://dbpedia.org/page/The_Thunderstorm>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Thunderstorm" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Bruce_Lee> .
+
+<https://dbpedia.org/page/When_Easterly_Showers_Fall_on_the_Sunny_West>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "When_Easterly_Showers_Fall_on_the_Sunny_West" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Kiki_Sheung> .
+
+<https://dbpedia.org/page/Wing_Chun_(TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Wing_Chun_(TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/Just_Love>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Just_Love" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Johnson_Lee> .
+
+<https://dbpedia.org/page/Golden_Ivory>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Golden_Ivory" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/UK> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Robert_Urquhart_(actor)> .
+
+<https://dbpedia.org/page/To_Be_or_Not_to_Be_(TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "To_Be_or_Not_to_Be_(TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Prudence_Liew> .
+
+<https://dbpedia.org/page/Investigating_Sex>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Investigating_Sex" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Germany> , <https://dbpedia.org/page/United_States> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/John_Light_(actor)> .
+
+<https://dbpedia.org/page/Proud_and_Confident>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Proud_and_Confident" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rosamund_Kwan> .
+
+<https://dbpedia.org/page/Wheels_on_Meals>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Wheels_on_Meals" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/The_Money-Maker_Recipe>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Money-Maker_Recipe" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Kiki_Sheung> .
+
+<https://dbpedia.org/page/The_Gem_of_Life>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Gem_of_Life" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Gigi_Lai> .
+
+<https://dbpedia.org/page/Challenger's_Alliance>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Challenger's_Alliance" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Li_Chen_(actor)> .
+
+<https://dbpedia.org/page/Ambiguous_(film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Ambiguous_(film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Minami_Aoyama> .
+
+<https://dbpedia.org/page/Knock_Knock_Loving_You>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Knock_Knock_Loving_You" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Republic_of_China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Dylan_Kuo> .
+
+<https://dbpedia.org/page/Spiritual_Kung_Fu>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Spiritual_Kung_Fu" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/Supermen_Against_the_Orient>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Supermen_Against_the_Orient" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Cinema_of_Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/Brick_Slaves>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Brick_Slaves" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Kiki_Sheung> .
+
+<https://dbpedia.org/page/Enter_the_Dragon>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Enter_the_Dragon" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Bruce_Lee> .
+
+<https://dbpedia.org/page/The_Three_Swordsmen>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Three_Swordsmen" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Brigitte_Lin> .
+
+<https://dbpedia.org/page/The_Head_Hunter>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Head_Hunter" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rosamund_Kwan> .
+
+<https://dbpedia.org/page/Dresden_(2006_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Dresden_(2006_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Germany> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/John_Light_(actor)> .
+
+<https://dbpedia.org/page/Momentary_Lapse_of_Reason_(TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Momentary_Lapse_of_Reason_(TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Louis_Cheung> .
+
+<https://dbpedia.org/page/A_Recipe_for_the_Heart>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "A_Recipe_for_the_Heart" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Cheung_Tat-ming> .
+
+<https://dbpedia.org/page/Saiko_no_Jinsei>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Saiko_no_Jinsei" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Tsutomu_Yamazaki> .
+
+<https://dbpedia.org/page/Virtues_of_Harmony_II>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Virtues_of_Harmony_II" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Johnny_Ngan> .
+
+<https://dbpedia.org/page/The_Adventurers_(1995_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Adventurers_(1995_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rosamund_Kwan> .
+
+<https://dbpedia.org/page/After_Hours_(Singaporean_TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "After_Hours_(Singaporean_TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Joanne_Peh> .
+
+<https://dbpedia.org/page/The_Dream_Catchers>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Dream_Catchers" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Paige_Chua> .
+
+<https://dbpedia.org/page/One_and_a_Half_Summer>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "One_and_a_Half_Summer" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Meng_Jia> .
+
+<https://dbpedia.org/page/Esther_(1999_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Esther_(1999_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/United_States> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Natasha_Williams_(actress)> .
+
+<https://dbpedia.org/page/Tori_Black_Is_Pretty_Filthy>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Tori_Black_Is_Pretty_Filthy" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/United_States> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/James_Deen> .
+
+<https://dbpedia.org/page/Eyes_of_Fire_(film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Eyes_of_Fire_(film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/United_States> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Guy_Boyd_(actor)> .
+
+<https://dbpedia.org/page/Justice_Sung_II>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Justice_Sung_II" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Cheung_Tat-ming> .
+
+<https://dbpedia.org/page/City_Hero>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "City_Hero" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Michael_Wong_(actor)> .
+
+<https://dbpedia.org/page/StrayDog:_Kerberos_Panzer_Cops>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "StrayDog:_Kerberos_Panzer_Cops" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yoshikatsu_Fujiki> .
+
+<https://dbpedia.org/page/ICAC_Investigators_2009>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "ICAC_Investigators_2009" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Halina_Tam> .
+
+<https://dbpedia.org/page/The_Ultimate_Crime_Fighter>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Ultimate_Crime_Fighter" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> , <https://dbpedia.org/page/Gigi_Lai> .
+
+<https://dbpedia.org/page/Awfully_Lawful>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Awfully_Lawful" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Johnson_Lee> .
+
+<https://dbpedia.org/page/Wife_Taxi:_Crowded_with_Big_Tits>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Wife_Taxi:_Crowded_with_Big_Tits" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Lemon_Hanazawa> .
+
+<https://dbpedia.org/page/Love_at_Risk>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Love_at_Risk" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Joanne_Peh> .
+
+<https://dbpedia.org/page/Uncle's_Paradise>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Uncle's_Paradise" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Minami_Aoyama> .
+
+<https://dbpedia.org/page/The_Comeback_Clan>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Comeback_Clan" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Kiki_Sheung> .
+
+<https://dbpedia.org/page/The_Texas_Vibrator_Massacre>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Texas_Vibrator_Massacre" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/United_States> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Roxy_DeVille> .
+
+<https://dbpedia.org/page/Vexille>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Vexille" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yasuko_Matsuyuki> .
+
+<https://dbpedia.org/page/A_War_Diary>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "A_War_Diary" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Fiona_Xie> .
+
+<https://dbpedia.org/page/The_Yang's_Saga>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Yang's_Saga" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Kiki_Sheung> .
+
+<https://dbpedia.org/page/"Like_Father>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "\"Like_Father" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/_Like_Daughter"> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Joanne_Peh> .
+
+<https://dbpedia.org/page/Healing_Hands>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Healing_Hands" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/William_So> .
+
+<https://dbpedia.org/page/Real_Kung_Fu>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Real_Kung_Fu" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/The_Real_Bruce_Lee>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Real_Bruce_Lee" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Cinema_of_Hong_Kong> , <https://dbpedia.org/page/Cinema_of_South_Korea> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Bruce_Lee> .
+
+<https://dbpedia.org/page/Peking_Opera_Blues>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Peking_Opera_Blues" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Brigitte_Lin> .
+
+<https://dbpedia.org/page/Brown_Sugar_Macchiato>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Brown_Sugar_Macchiato" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Republic_of_China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Xiao_Xun> , <https://dbpedia.org/page/Wang_Zi> , <https://dbpedia.org/page/MeiMei_Kuo> , <https://dbpedia.org/page/Gui_Gui> .
+
+<https://dbpedia.org/page/Smooth_Talker>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Smooth_Talker" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Johnson_Lee> .
+
+<https://dbpedia.org/page/The_Big_Boss>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Big_Boss" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Bruce_Lee> .
+
+<https://dbpedia.org/page/The_Truth_(2008_TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Truth_(2008_TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Joanne_Peh> .
+
+<https://dbpedia.org/page/Maggi_&_Me>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Maggi_&_Me" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Fiona_Xie> .
+
+<https://dbpedia.org/page/The_Legend_Is_Born:_Ip_Man>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Legend_Is_Born:_Ip_Man" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/Dr._Akagi>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Dr._Akagi" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Jacques_Gamblin> .
+
+<https://dbpedia.org/page/Millionaires_Express>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Millionaires_Express" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Cinema_of_Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> , <https://dbpedia.org/page/Rosamund_Kwan> .
+
+<https://dbpedia.org/page/The_Menu>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Menu" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Felix_Lok> .
+
+<https://dbpedia.org/page/Sunny_Happiness>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Sunny_Happiness" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Taiwan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Janine_Chang> .
+
+<https://dbpedia.org/page/Virtues_of_Harmony>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Virtues_of_Harmony" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Johnny_Ngan> .
+
+<https://dbpedia.org/page/Second_Virgin>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Second_Virgin" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/You_(actress)> .
+
+<https://dbpedia.org/page/The_Kung_Fu_Scholar>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Kung_Fu_Scholar" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Dicky_Cheung> .
+
+<https://dbpedia.org/page/Gameboy_Kids>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Gameboy_Kids" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rosamund_Kwan> .
+
+<https://dbpedia.org/page/Killers_(2014_film)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Killers_(2014_film)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> , <https://dbpedia.org/page/Indonesia> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Rin_Takanashi> .
+
+<https://dbpedia.org/page/The_Good_Old_Days_(TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Good_Old_Days_(TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Kiki_Sheung> .
+
+<https://dbpedia.org/page/As_It_Is_in_Heaven>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "As_It_Is_in_Heaven" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Sweden> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Frida_Hallgren> .
+
+<https://dbpedia.org/page/Helen_the_Baby_Fox>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Helen_the_Baby_Fox" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Japan> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yasuko_Matsuyuki> .
+
+<https://dbpedia.org/page/One_Leg_Kicking>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "One_Leg_Kicking" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Fiona_Xie> .
+
+<https://dbpedia.org/page/Ice_Fantasy>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Ice_Fantasy" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Ma_Tianyu> .
+
+<https://dbpedia.org/page/The_Day_It_Rained_on_Our_Parade>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "The_Day_It_Rained_on_Our_Parade" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Singapore> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Ng_Hui> .
+
+<https://dbpedia.org/page/War_and_Beauty>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "War_and_Beauty" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Gigi_Lai> .
+
+<https://dbpedia.org/page/Twin_of_Brothers_(2011_TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Twin_of_Brothers_(2011_TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/People's_Republic_of_China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Kong_Lin> .
+
+<https://dbpedia.org/page/Shaolin_Wooden_Men>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Shaolin_Wooden_Men" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/Hong_Kong> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Yuen_Biao> .
+
+<https://dbpedia.org/page/Sisters_Over_Flowers_(Chinese_TV_series)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns#:type>
+                <https://dbpedia.org/ontology/Film> ;
+        <http://www.w3.org/2000/01/rdf-schema#:label>
+                "Sisters_Over_Flowers_(Chinese_TV_series)" ;
+        <https://dbpedia.org/ontology/country>
+                <https://dbpedia.org/page/China> ;
+        <https://dbpedia.org/ontology/starring>
+                <https://dbpedia.org/page/Ma_Tianyu> .
